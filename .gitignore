@@ -1,0 +1,17 @@
+.DS_Store
+.settings
+.dropbox
+desktop.ini
+*.zip
+
+
+#Node
+node_modules
+
+#Sass
+.sass-cache
+koala-config.json
+*.css.map
+
+#Editors
+.vscode
